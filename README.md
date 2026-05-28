@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herrol-j-43549b218)
 
-Security Systems Technology graduate with hands-on experience in network security, cloud infrastructure, and cybersecurity operations. I have designed enterprise-style network topologies, deployed honeypots on AWS, and analyzed live network traffic using Wireshark.
+Security Systems Technology graduate with hands-on project experience in network security, cloud infrastructure, and cybersecurity operations. I have designed enterprise-style network topologies, deployed honeypots on AWS, and analyzed live network traffic using Wireshark.
 
 I am passionate about securing systems, understanding attacker behavior, and applying both offensive and defensive techniques to real-world environments.
 
