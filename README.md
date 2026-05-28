@@ -19,10 +19,10 @@ My journey in networking and security has strengthened my drive for building res
 | Skill | Associated Project |
 |---|---|
 | Honeypot Deployment & Threat Detection | [AWS Honeypot Deployment](https://github.com/Herroljp/AWS-Honeypot-Deployment) |
-| Network Topology Design & VLAN/ACL Segmentation | [Network Security Topology](#) |
+| Network Topology Design & VLAN/ACL Segmentation | [Network Security Topology](https://github.com/Herroljp/Network-Security-Topology-) |
 | Packet Capture & Traffic Analysis | [Network Traffic Analysis](#) |
 | Cloud Security & Linux Server Hardening (AWS EC2) | [AWS Honeypot Deployment](https://github.com/Herroljp/AWS-Honeypot-Deployment) |
-| Routing Protocols (OSPF, EIGRP) | [Network Security Topology](#) |
+| Routing Protocols (OSPF, EIGRP) | [Network Security Topology](https://github.com/Herroljp/Network-Security-Topology-) |
 | Python, PowerShell, Bash Scripting | Personal Labs |
 
 ---
@@ -30,7 +30,7 @@ My journey in networking and security has strengthened my drive for building res
 ## Projects
 
 - [AWS Honeypot Deployment](https://github.com/Herroljp/AWS-Honeypot-Deployment)
-- [Network Security Topology](#)
+- [Network Security Topology](https://github.com/Herroljp/Network-Security-Topology-)
 - [Network Traffic Analysis & Packet Inspection](#)
 
 ---
