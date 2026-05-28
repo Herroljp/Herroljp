@@ -46,5 +46,5 @@ My journey in networking and security has strengthened my drive for building res
 ## Education
 
 - 🎓 B.S. in Security Systems Technology (Networking) — SUNY Farmingdale State College, 2026
-  - President's List (2026) | Dean's List (2025) | Jefferies Family Scholarship (2023–2026)
+  - President's List (2026) | Dean's List (2025) | 
 - 📚 M.S. in Technological Systems Management *(Incoming Fall 2026)* — Stony Brook University
